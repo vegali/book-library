@@ -4,7 +4,7 @@ body{
     outline:1px solid #aaa;width: 350px;height: 160px;background-color: #FFF;float: left;margin: 5px;
 }
 .bookContainer img{
-    float: left;margin: 10px;
+    float: left;margin: 10px;width: 105px;height: 140px;
 }
 .bookContainer ul{
     list-style-type: none;
